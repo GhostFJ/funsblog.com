@@ -119,7 +119,7 @@ gray:
 
 # Post Image
 post_image:
-  random: local # local galleries
+  random: galleries # local galleries
   default: /images/theme/post-image.jpg
 
 # Page Size
