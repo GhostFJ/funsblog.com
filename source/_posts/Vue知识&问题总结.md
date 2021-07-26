@@ -1,8 +1,7 @@
 ---
-title: zhaoo - 主题文档
+title: Vue知识 & 问题记录
 image: https://picsum.photos/400/300.jpg
 ---
-# Vue知识 & 问题记录
 
 ## **1、**vue-pdf插件加载本地PDF预览
 
